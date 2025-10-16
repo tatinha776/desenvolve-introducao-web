@@ -1,5 +1,7 @@
-Atividades para o Projeto Desenvolve
+# Atividades para o Projeto Desenvolve
 
-Projeto Desenvolve - Itabira
-Introdução à Programação Web
-PDITA633
+  Cidade: Projeto Desenvolve - Itabira
+
+  Disciplina: Introdução à Programação Web
+
+  Matrícula: PDITA633
